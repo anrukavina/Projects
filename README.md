@@ -1,1 +1,1 @@
-## This is repository where I'm practicing my coding skills by doing tutorials and creating my own projects.
+This is repository where I'm practicing my coding skills by following tutorials and by creating my own projects.
