@@ -16,3 +16,10 @@ The closer you are to number 100, the better! Good luck!
 ## Example: 
 
 ![image](https://user-images.githubusercontent.com/95641979/212993898-0c94759d-d739-4948-83e2-66d651b0deb0.png)
+
+### Technologies used:
+
+- PHP ver. 8.1.5,
+- Taildwind CSS,
+- XAMPP v3.3.0,
+- GitHub Desktop 3.1.2
