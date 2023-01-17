@@ -1,7 +1,9 @@
 # Exercise description
 The Love Calculator is based on a game that everyone played when they were kids. To get a result that tells us how many chances we have of developing love with our crush, we had to follow the following steps.
 
-![image](https://user-images.githubusercontent.com/95641979/212991975-3ccbeefa-9786-437d-865a-2b36dd5bc09e.png)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/95641979/212991975-3ccbeefa-9786-437d-865a-2b36dd5bc09e.png)" />
+</p>
 
 1. Write your name and the name of your crush on a piece of paper.
 2. After that, under each letter write how many times it is repeated.
