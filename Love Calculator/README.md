@@ -15,4 +15,4 @@ The closer you are to number 100, the better! Good luck!
 
 ## Example: 
 
-![image](https://user-images.githubusercontent.com/95641979/212993565-62efe6c2-4ca7-442c-848e-388cad36a9a0.png)
+![image](https://user-images.githubusercontent.com/95641979/212993898-0c94759d-d739-4948-83e2-66d651b0deb0.png)
