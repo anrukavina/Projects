@@ -10,7 +10,7 @@ The **Love Calculator** is based on a game that everyone played when they were k
 The closer you are to number 100, the better! Good luck!
 
 <p align="center" width="100%">
-    <img width="67%" height="80%" src="https://user-images.githubusercontent.com/95641979/212991975-3ccbeefa-9786-437d-865a-2b36dd5bc09e.png"> 
+    <img width="40%" height="50%" src="https://user-images.githubusercontent.com/95641979/212991975-3ccbeefa-9786-437d-865a-2b36dd5bc09e.png"> 
 </p>
 
 ## Example: 
